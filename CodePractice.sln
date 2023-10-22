@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Classes", "..\C_Sha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Constructor", "..\..\Practice\CodePractice\C_Sharp_Constructor\C_Sharp_Constructor.csproj", "{0970A95C-8ABF-4D36-A502-5373C4BA5670}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_MethodOverload", "..\..\Practice\CodePractice\C_Sharp_MethodOverload\C_Sharp_MethodOverload.csproj", "{901A36C0-55B6-4BF1-86DB-7A2D5F707418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "..\..\Practice\CodePractice\AccessModifiers\AccessModifiers.csproj", "{2109CEF2-4B51-46BE-A576-078AEC412455}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0970A95C-8ABF-4D36-A502-5373C4BA5670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0970A95C-8ABF-4D36-A502-5373C4BA5670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0970A95C-8ABF-4D36-A502-5373C4BA5670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901A36C0-55B6-4BF1-86DB-7A2D5F707418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901A36C0-55B6-4BF1-86DB-7A2D5F707418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901A36C0-55B6-4BF1-86DB-7A2D5F707418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901A36C0-55B6-4BF1-86DB-7A2D5F707418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2109CEF2-4B51-46BE-A576-078AEC412455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2109CEF2-4B51-46BE-A576-078AEC412455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2109CEF2-4B51-46BE-A576-078AEC412455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2109CEF2-4B51-46BE-A576-078AEC412455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
