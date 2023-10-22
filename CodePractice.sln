@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePractice", "AdvancedDebugging\CodePractice.csproj", "{AC15B0B2-C1EA-4B24-AC04-649C931531C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Arrays_SortBySmallNumbers", "C_Sharp_Arrays_SortBySmallNumbers\C_Sharp_Arrays_SortBySmallNumbers.csproj", "{D563917E-2507-4E36-8813-5190CD9732EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC15B0B2-C1EA-4B24-AC04-649C931531C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC15B0B2-C1EA-4B24-AC04-649C931531C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC15B0B2-C1EA-4B24-AC04-649C931531C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D563917E-2507-4E36-8813-5190CD9732EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D563917E-2507-4E36-8813-5190CD9732EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D563917E-2507-4E36-8813-5190CD9732EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D563917E-2507-4E36-8813-5190CD9732EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
