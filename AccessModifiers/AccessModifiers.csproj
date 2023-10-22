@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0970A95C-8ABF-4D36-A502-5373C4BA5670}</ProjectGuid>
+    <ProjectGuid>{2109CEF2-4B51-46BE-A576-078AEC412455}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C_Sharp_Constructor</RootNamespace>
-    <AssemblyName>C_Sharp_Constructor</AssemblyName>
+    <RootNamespace>AccessModifiers</RootNamespace>
+    <AssemblyName>AccessModifiers</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
+    <Compile Include="Car.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
