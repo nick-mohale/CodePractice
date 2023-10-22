@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Arrays_SortBySmallN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Classes", "..\C_Sharp_Classes\C_Sharp_Classes.csproj", "{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Constructor", "..\..\Practice\CodePractice\C_Sharp_Constructor\C_Sharp_Constructor.csproj", "{0970A95C-8ABF-4D36-A502-5373C4BA5670}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0970A95C-8ABF-4D36-A502-5373C4BA5670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0970A95C-8ABF-4D36-A502-5373C4BA5670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0970A95C-8ABF-4D36-A502-5373C4BA5670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0970A95C-8ABF-4D36-A502-5373C4BA5670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
