@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePractice", "AdvancedDeb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Arrays_SortBySmallNumbers", "C_Sharp_Arrays_SortBySmallNumbers\C_Sharp_Arrays_SortBySmallNumbers.csproj", "{D563917E-2507-4E36-8813-5190CD9732EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Classes", "..\C_Sharp_Classes\C_Sharp_Classes.csproj", "{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D563917E-2507-4E36-8813-5190CD9732EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D563917E-2507-4E36-8813-5190CD9732EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D563917E-2507-4E36-8813-5190CD9732EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA2E1A1-C68F-454B-90F2-07434DAE35FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
